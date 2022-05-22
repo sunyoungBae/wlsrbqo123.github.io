@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+### 목록
+* 파이썬 기초
+  1. [자료형](https://sunyoungbae.github.io/wlsrbqo123.github.io/PYTHON_BASIC/1.%EC%9E%90%EB%A3%8C%ED%98%95)
+  2. [제어문](https://sunyoungbae.github.io/wlsrbqo123.github.io/PYTHON_BASIC/2.%EC%A0%9C%EC%96%B4%EB%AC%B8)
+  3. [함수](https://sunyoungbae.github.io/wlsrbqo123.github.io/PYTHON_BASIC/3.%ED%95%A8%EC%88%98)
+  4. [클래스](https://sunyoungbae.github.io/wlsrbqo123.github.io/PYTHON_BASIC/4.%ED%81%B4%EB%9E%98%EC%8A%A4)
+  5. [모듈](https://sunyoungbae.github.io/wlsrbqo123.github.io/PYTHON_BASIC/5.%EB%AA%A8%EB%93%88)
+  6. [예외처리](https://sunyoungbae.github.io/wlsrbqo123.github.io/PYTHON_BASIC/6.%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
 
-You can use the [editor on GitHub](https://github.com/wlsrbqo123/wlsrbqo123.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wlsrbqo123/wlsrbqo123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [코어 자바스크립트](https://sunyoungbae.github.io/wlsrbqo123.github.io/CORE_JAVASCRIPT/)
+  1. ...
+  2. 실행 컨텍스트
+    1. [실행 컨텍스트란](https://sunyoungbae.github.io/wlsrbqo123.github.io/CORE_JAVASCRIPT/02_%EC%8B%A4%ED%96%89_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/02_1_%EC%8B%A4%ED%96%89_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%9E%80)
+    2. [VariableEnvironment](https://sunyoungbae.github.io/wlsrbqo123.github.io/CORE_JAVASCRIPT/02_%EC%8B%A4%ED%96%89_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/02_2_VariableEnvironment)
